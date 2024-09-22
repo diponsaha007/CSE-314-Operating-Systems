@@ -1,0 +1,4 @@
+Math - https://codeforces.com/blog/entry/82103
+Range query - https://codeforces.com/blog/entry/77128
+DP - https://codeforces.com/blog/entry/70018
+Tree - https://codeforces.com/blog/entry/79048
